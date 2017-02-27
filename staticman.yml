@@ -70,6 +70,8 @@ comments:
   transforms:
     email: md5
     
+  # reCAPTCHA API credentials
+  # Secret must be encrypted.
   reCaptcha:
     enabled: true
     siteKey: "6Lf7-gkUAAAAANpWPqpwlrqHYALoy1TGK9cPD4Ov"
